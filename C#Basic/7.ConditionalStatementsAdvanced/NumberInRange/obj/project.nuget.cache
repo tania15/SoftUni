@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8/4rOrjaCZwmPG2rERaX8yBom9Ag+tLFt+OQBPvBKatg5sQ81jmac68mpoWQIsQRfsZxwU/UmlMJXwfKBzeFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\7.ConditionalStatementsAdvanced\\NumberInRange\\NumberInRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

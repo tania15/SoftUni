@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DoPYWgM4tnr1Bdt+vfjvig9tgrb3w+jZc/aRNFCx+1ySmcHEW8CL5HII7+BDAe3Wq+b3nh/2E+31J4SSHv5HvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\11.While\\Password\\Password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

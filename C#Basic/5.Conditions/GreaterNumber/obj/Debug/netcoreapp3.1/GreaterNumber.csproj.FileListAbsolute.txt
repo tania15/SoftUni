@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.exe
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.deps.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.genruntimeconfig.cache

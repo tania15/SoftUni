@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

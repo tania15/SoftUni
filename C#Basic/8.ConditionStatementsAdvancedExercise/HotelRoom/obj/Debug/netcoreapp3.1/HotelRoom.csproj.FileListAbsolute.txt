@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache

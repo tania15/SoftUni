@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.exe
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.deps.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\bin\Debug\netcoreapp3.1\HighJump.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\HighJump\obj\Debug\netcoreapp3.1\HighJump.genruntimeconfig.cache

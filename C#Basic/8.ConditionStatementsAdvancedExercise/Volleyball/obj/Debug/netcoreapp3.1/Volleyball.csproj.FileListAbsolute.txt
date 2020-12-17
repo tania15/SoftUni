@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.exe
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.deps.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.genruntimeconfig.cache

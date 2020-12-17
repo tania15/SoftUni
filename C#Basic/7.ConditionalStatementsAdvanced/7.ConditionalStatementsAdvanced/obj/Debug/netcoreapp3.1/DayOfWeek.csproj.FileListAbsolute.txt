@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\7.ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache

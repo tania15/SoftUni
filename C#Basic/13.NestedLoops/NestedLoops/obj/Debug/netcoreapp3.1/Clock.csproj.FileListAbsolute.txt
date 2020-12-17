@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\V330\source\repos\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

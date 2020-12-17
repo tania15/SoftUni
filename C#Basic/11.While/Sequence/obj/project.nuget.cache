@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aD9GSq/UmhbDmyQJlXbVVSCHMcY6+1vbLgQ6wje3TlC+ZW5n7igU/3hzNdXXJVJz7i/NT/xcHfiAJLGRcjgHmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\11.While\\Sequence\\Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPyramid", "14.NestedLoopsExercise\NumberPyramid.csproj", "{13E3475A-A210-4D06-A7BD-C239B58699F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSumsEvenOddPosition", "EqualSumsEvenOddPosition\EqualSumsEvenOddPosition.csproj", "{55799F33-D0C9-4547-B296-777BE0075C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumPrimeNonPrime", "SumPrimeNonPrime\SumPrimeNonPrime.csproj", "{8C2DA15C-0C91-4F5D-8B4B-008FB401A050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTheTrainers", "TrainTheTrainers\TrainTheTrainers.csproj", "{24F278FB-0BC5-4087-9035-4C6A6A8AA6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{9192B3C4-BE0A-4B31-8789-441A47AEE594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNumbers\SpecialNumbers.csproj", "{7121B37A-F229-4C8B-A352-65B471784B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E3475A-A210-4D06-A7BD-C239B58699F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E3475A-A210-4D06-A7BD-C239B58699F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E3475A-A210-4D06-A7BD-C239B58699F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E3475A-A210-4D06-A7BD-C239B58699F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55799F33-D0C9-4547-B296-777BE0075C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55799F33-D0C9-4547-B296-777BE0075C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55799F33-D0C9-4547-B296-777BE0075C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55799F33-D0C9-4547-B296-777BE0075C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2DA15C-0C91-4F5D-8B4B-008FB401A050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2DA15C-0C91-4F5D-8B4B-008FB401A050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2DA15C-0C91-4F5D-8B4B-008FB401A050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2DA15C-0C91-4F5D-8B4B-008FB401A050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F278FB-0BC5-4087-9035-4C6A6A8AA6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F278FB-0BC5-4087-9035-4C6A6A8AA6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F278FB-0BC5-4087-9035-4C6A6A8AA6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F278FB-0BC5-4087-9035-4C6A6A8AA6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9192B3C4-BE0A-4B31-8789-441A47AEE594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9192B3C4-BE0A-4B31-8789-441A47AEE594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9192B3C4-BE0A-4B31-8789-441A47AEE594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9192B3C4-BE0A-4B31-8789-441A47AEE594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7121B37A-F229-4C8B-A352-65B471784B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7121B37A-F229-4C8B-A352-65B471784B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7121B37A-F229-4C8B-A352-65B471784B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7121B37A-F229-4C8B-A352-65B471784B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50AE4FFE-D6BE-4CBC-9B44-F29DAE74699C}
+	EndGlobalSection
+EndGlobal

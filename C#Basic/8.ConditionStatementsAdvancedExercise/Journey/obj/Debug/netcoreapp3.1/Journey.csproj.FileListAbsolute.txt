@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

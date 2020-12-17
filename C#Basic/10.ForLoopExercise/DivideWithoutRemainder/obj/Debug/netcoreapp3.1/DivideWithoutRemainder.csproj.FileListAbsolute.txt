@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.exe
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.deps.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.genruntimeconfig.cache

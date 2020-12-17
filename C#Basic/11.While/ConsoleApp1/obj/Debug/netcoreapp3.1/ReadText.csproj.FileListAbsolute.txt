@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

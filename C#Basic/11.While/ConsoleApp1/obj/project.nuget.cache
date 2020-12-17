@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dS1aC3umxIiE4cgBGpmyzlszoO7ir+cJ3u/vRpeq5ZoG/lk3alLyUokq8ELlEsdVG6wbZtYr18xXxHqtiv/Vnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\11.While\\ConsoleApp1\\ReadText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

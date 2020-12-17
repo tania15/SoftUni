@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.genruntimeconfig.cache

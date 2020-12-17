@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEolShcDYyah31BT1iXDSUuRbGjft0H1yB5637PbO0/orAlFePyU9XnVm0BQprrTIdvxwhCMC6kDQbSs5/OF8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\5.Conditions\\AreaOfFigures\\AreaOfFigures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

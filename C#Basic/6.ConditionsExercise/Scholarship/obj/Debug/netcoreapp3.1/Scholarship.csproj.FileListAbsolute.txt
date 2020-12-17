@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.exe
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.deps.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.genruntimeconfig.cache

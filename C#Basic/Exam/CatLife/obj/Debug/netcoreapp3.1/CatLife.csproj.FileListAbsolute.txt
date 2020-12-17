@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.exe
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.deps.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\bin\Debug\netcoreapp3.1\CatLife.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CatLife\obj\Debug\netcoreapp3.1\CatLife.genruntimeconfig.cache

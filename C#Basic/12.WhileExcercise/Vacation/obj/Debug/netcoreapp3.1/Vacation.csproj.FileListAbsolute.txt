@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

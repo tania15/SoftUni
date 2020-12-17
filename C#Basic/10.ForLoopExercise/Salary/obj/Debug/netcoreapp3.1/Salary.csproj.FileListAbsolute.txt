@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\V330\source\repos\C# Basic\10.ForLoopExercise\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

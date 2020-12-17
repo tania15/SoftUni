@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6sjG542bWClT/A004Z9onkEc65AeiI8e0SV76/9Nw5PNz64WB5gzfOnnE84CVkGi7Ves1bS5UQsCh2mJBCqvPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\15.ExamPreparation\\HighJump\\HighJump.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.exe
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.deps.json
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.runtimeconfig.json
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.dll
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\RoomPainting.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.dll
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\RoomPainting.genruntimeconfig.cache

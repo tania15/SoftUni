@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.exe
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.deps.json
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\V330\source\repos\14.NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.genruntimeconfig.cache

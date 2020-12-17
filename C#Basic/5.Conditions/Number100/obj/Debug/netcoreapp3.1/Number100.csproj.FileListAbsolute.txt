@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.exe
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.deps.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\bin\Debug\netcoreapp3.1\Number100.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\Number100\obj\Debug\netcoreapp3.1\Number100.genruntimeconfig.cache

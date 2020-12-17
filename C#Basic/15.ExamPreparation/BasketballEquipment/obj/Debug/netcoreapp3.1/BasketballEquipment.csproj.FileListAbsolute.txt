@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.exe
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.deps.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.genruntimeconfig.cache

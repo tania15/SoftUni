@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXf3PIl3WaEcRSr5EMcI0zz/la3quoga+kC0UymKzAdAxtZ0kbBR0qwyijtKpsc2RQX0b2FLLVJ2Vi0SPt5mxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\8.ConditionStatementsAdvancedExercise\\8.ConditionStatementsAdvancedExercise\\Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

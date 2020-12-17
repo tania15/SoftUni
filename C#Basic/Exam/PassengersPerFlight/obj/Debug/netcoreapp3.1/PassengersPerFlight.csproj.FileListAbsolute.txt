@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.exe
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.deps.json
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.runtimeconfig.json
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.dll
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.dll
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.genruntimeconfig.cache

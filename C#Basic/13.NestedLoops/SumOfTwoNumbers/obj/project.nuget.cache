@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrZePkvUibyJ86gHYYWTr23LIB/IFGlJ9CFDaG4iBlhr8EinJeAOOWVYLGnUc393G1IXTeVXAkIv2MGDbt5Q9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\NestedLoops\\SumOfTwoNumbers\\SumOfTwoNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

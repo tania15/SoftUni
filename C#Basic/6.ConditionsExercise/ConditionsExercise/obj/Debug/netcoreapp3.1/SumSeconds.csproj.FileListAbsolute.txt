@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\ConditionsExercise\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

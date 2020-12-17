@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFTn5uGx73jdNPeChjz6vJ5dAigImLDAxIdblhqXAa0LT00aSYgvhHuLsAnzlJ5uzjmUCRGc4bqPXi+YtQYPxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\NestedLoops\\NestedLoops\\Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

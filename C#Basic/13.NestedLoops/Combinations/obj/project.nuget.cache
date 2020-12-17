@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0eLszuRDv6V+hUY10CCYmIQlZtEhhiEPTlkjfMMSI6tUbPUrKwde+qRi+fc7wFrD79BUgpYOE1Yw236EaJuPuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\NestedLoops\\Combinations\\Combinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

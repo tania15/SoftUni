@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.exe
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.deps.json
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.runtimeconfig.json
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\bin\Debug\netcoreapp3.1\CalorieCalculator.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CalorieCalculator\obj\Debug\netcoreapp3.1\CalorieCalculator.genruntimeconfig.cache

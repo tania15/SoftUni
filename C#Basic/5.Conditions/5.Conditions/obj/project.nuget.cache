@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JyUtlFXubPW5k406KsoCcWbiglfLP2dSlGrg5Iy9urTiZb0E/wa4pYP1ljB7uQ91oqnP2MCnE/6XFJvE3AeNDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\5.Conditions\\5.Conditions\\ExcellentResult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

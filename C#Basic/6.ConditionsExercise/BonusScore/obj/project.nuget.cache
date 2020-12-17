@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRf+e29oSCt7vLt50SmuGLugEVm2vLyMrVJkMBlaviTLmKNtglKy5FvX+iDPcW76DAN1BZ1Tw9+mR01jNLnxxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\ConditionsExercise\\BonusScore\\BonusScore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

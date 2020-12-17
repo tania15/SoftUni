@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.exe
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.deps.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.dll
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.pdb
+C:\Users\V330\source\repos\C# Basic\ConditionsExercise\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.genruntimeconfig.cache

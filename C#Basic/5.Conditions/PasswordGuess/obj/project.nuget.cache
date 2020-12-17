@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qx/ptF5p3zIXXZ0uFHDWZZRhp6c6HyVCk6nqQsqfRAwRPGoJ+B91MIfMP7s6Nn8qDse2wyLhKpzeB7dx1wj9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\5.Conditions\\PasswordGuess\\PasswordGuess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.exe
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.deps.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\bin\Debug\netcoreapp3.1\CatFood.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.dll
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.pdb
+C:\Users\V330\source\repos\C#Basic\Exam\CatFood\obj\Debug\netcoreapp3.1\CatFood.genruntimeconfig.cache

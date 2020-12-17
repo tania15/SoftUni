@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NemwI9IGgNgt2s7QpXlckvawbiLn+qFfd2ZLh71oMeSDkSCDiVelPHwr0+aOGVkNiw7lA5Qpi/yVo1DUHtxBkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\14.NestedLoopsExercise\\PasswordGenerator\\PasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

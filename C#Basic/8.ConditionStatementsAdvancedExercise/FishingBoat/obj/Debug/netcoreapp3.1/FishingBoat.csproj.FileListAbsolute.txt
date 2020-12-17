@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\V330\source\repos\C# Basic\8.ConditionStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

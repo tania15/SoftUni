@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\V330\source\repos\C# Basic\11.While\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache

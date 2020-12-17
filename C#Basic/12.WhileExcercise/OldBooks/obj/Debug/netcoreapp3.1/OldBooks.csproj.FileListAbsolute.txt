@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.exe
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.deps.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.genruntimeconfig.cache

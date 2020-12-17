@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjbjmhG4rPdqP3iyRCt0ZgXVp7ewcAi6hHpig1ZcjyMA51IDQPDWY+v+c3XG4kmKBPKMbHK1mr9SgyJOsb3yKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\14.NestedLoopsExercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

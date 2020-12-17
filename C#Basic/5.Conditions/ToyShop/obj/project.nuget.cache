@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2iOWZSaJhCIFfq9kA+rAGwE8wwnmtCGKqm+2ABCbBk7susvGsjUeXt5Ws80WeWfgAgAFxCQZxZ+6wfIGCWi7HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\5.Conditions\\ToyShop\\ToyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

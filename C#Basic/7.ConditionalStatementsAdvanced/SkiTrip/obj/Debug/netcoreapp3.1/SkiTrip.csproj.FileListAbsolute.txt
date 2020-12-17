@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.genruntimeconfig.cache

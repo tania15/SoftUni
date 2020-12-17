@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

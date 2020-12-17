@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\V330\source\repos\C# Basic\WhileExcercise\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.exe
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.deps.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.dll
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.pdb
+C:\Users\V330\source\repos\C# Basic\15.ExamPreparation\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.genruntimeconfig.cache

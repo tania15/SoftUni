@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.genruntimeconfig.cache

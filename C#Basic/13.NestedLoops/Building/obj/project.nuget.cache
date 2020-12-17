@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l0tr1k9mXRK8bvtSEqtJMGPucnQzgC1KFAq+onDmTmaqlNUTXZ6K4XiOXgVfFqkcEIsXsShwCi7NifOjmgrdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\NestedLoops\\Building\\Building.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

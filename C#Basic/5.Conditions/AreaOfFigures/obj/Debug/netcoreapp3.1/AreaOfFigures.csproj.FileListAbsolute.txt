@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.exe
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\V330\source\repos\C# Basic\5.Conditions\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.genruntimeconfig.cache

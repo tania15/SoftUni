@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jW8T6O7Y7WnrHuZ4UubDssYnCgpFdXfnEqIeMXBFT2mRukpaYKPm9SO7pgblxKhxnxczqLXA0P/gSNUKJ3q1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\11.While\\MinNumber\\MinNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

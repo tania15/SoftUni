@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\V330\source\repos\C# Basic\7.ConditionalStatementsAdvanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.genruntimeconfig.cache
