@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.genruntimeconfig.cache

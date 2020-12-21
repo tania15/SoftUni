@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvpyR578gH3ZVU/Q+38KG9ipPNDxg2P5yqNw31Yk1R5UbrGoIrYmJ1Eeb4kdkr7nN3hY3FJwpjtiCce+DxoPvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\BasicSyntaxConditionsExcercise\\VendingMachine\\VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

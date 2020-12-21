@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRR/lu8rxGhwXHxeicPIrcQCgPa8yz0wasFO5yoPUw5vh7eIvzxhrSlPegCPvYcnfimXxBCOW+COcnoxAJ1F6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\BasicSyntaxConditionsExcercise\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

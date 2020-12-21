@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

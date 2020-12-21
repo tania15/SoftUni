@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.exe
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\bin\Debug\netcoreapp3.1\DivisibleBy3.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DivisibleBy3\obj\Debug\netcoreapp3.1\DivisibleBy3.genruntimeconfig.cache

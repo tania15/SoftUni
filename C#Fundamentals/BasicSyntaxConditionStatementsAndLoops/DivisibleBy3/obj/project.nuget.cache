@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx/UVHaqyjRcvrF+z0YzXrgY5rCfKwzYED7vgElP34xflTHEIopIjKLpXejsEA+YO2hiF4MAORzaf84syXoAEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\DivisibleBy3\\DivisibleBy3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

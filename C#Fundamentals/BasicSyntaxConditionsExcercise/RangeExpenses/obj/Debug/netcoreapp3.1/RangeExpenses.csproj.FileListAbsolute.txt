@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.exe
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.deps.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\bin\Debug\netcoreapp3.1\RangeExpenses.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\RangeExpenses\obj\Debug\netcoreapp3.1\RangeExpenses.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqMGImjaWXbg+HdP4OkxePdTANeCkjGedAgdqsHMmsr/oM7x2GgU2x8I/y9PlaaxO8bWb+6gH9khIX7z2eibqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\TheatrePromotion\\TheatrePromotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

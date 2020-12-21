@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache

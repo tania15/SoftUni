@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ysDnrC36deblLw0XxBWEDmnfnrJXQFpujCZvbD/Mm7/WMrbTWKrpx7mVojqDz6snpI5vOyQcjTgutiudPae9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\BasicSyntaxConditionsExcercise\\Vacantion\\Vacantion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

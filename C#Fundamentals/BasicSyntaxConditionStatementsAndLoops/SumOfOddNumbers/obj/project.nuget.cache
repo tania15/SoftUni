@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UrSCcmEHpH42jBiCgsSRz1TpqqRGn68mspInaciY6wPE2u1yUDn+Y4LoUndNO2oMDi058D/ArhKfhQnIX2/RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\SumOfOddNumbers\\SumOfOddNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

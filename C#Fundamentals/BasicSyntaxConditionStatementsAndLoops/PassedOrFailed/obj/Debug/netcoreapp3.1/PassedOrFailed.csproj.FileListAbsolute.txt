@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.exe
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\bin\Debug\netcoreapp3.1\PassedOrFailed.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\PassedOrFailed\obj\Debug\netcoreapp3.1\PassedOrFailed.genruntimeconfig.cache

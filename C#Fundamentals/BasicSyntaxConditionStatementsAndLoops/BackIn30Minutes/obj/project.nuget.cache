@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3lJRj6ptKLjXNjSllk9u3RQvxyOIYy88VXxnHwSsd/e3zXZCf59xGdgTHxN/xgTJey4kiTt7wPc0KDYKRQIvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\BackIn30Minutes\\BackIn30Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

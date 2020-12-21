@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

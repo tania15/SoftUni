@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1P/dLX4TE8/s052xRHF7nyTAPQNVP4tWL4+d5e1tkDH6XTzzs6hSxqcXHgl0cli0FqCJnPf8qsEbSPFfvDv+uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\DebbugTheCode\\DebbugTheCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

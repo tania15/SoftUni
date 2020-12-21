@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.exe
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.deps.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.genruntimeconfig.cache

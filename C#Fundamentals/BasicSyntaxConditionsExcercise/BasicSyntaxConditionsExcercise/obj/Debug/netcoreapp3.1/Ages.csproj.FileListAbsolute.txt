@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.exe
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.deps.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\bin\Debug\netcoreapp3.1\Ages.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.dll
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.pdb
+C:\Users\V330\source\repos\C# Basic\BasicSyntaxConditionsExcercise\BasicSyntaxConditionsExcercise\obj\Debug\netcoreapp3.1\Ages.genruntimeconfig.cache

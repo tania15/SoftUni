@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.exe
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\bin\Debug\netcoreapp3.1\DebbugTheCode.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.dll
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.pdb
+C:\Users\V330\source\repos\C# Fundamentals\BasicSyntaxConditionStatementsAndLoops\DebbugTheCode\obj\Debug\netcoreapp3.1\DebbugTheCode.genruntimeconfig.cache

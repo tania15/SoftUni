@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "isbhehOul47x38yq+oaWkrGX0VPIMPUxhBLokqWku47DyG1wU1DeK46KUGDK45GDsxcfZM3kzMRnbsz7idQBOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\BasicSyntaxConditionStatementsAndLoops\\MonthPrinter\\MonthPrinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

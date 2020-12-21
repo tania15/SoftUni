@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8YXBdfYPA81Gvfp6nQjnwed5sQBihT2Ai8DWGW3Dk5QRr3+IsKxp/+m+J4c0zuboA+2yAIV+jCTHza6nLnJKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\BasicSyntaxConditionsExcercise\\RangeExpenses\\RangeExpenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
