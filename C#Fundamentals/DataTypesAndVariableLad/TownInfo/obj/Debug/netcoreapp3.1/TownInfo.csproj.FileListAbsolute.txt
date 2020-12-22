@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.exe
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.genruntimeconfig.cache

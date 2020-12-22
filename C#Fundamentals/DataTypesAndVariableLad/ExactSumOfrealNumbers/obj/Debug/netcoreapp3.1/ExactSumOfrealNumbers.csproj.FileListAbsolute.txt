@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.exe
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfrealNumbers.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\ExactSumOfrealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfrealNumbers.genruntimeconfig.cache

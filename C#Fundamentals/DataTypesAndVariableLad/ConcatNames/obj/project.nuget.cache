@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rslzUQswhZ7KdX5g8gXEVTRiff8uojpXgV6ByImQi/ShKPEuAh9dwf+fmOvoS1aDOES5ubypKPCnThFLIuW8hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\7.DataTypesAndVariableLad\\ConcatNames\\ConcatNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

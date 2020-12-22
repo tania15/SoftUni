@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZL7dmfahWx6S16O6Bhfyq3sZnrCodMFeMlwoEdm15bIKq+0THwZhkWjl7HKdQ+rx9ynWf+GS/Rmq5L1hYTXPaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\8.DataTypesAndVariablesExercise\\SumDigits\\SumDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

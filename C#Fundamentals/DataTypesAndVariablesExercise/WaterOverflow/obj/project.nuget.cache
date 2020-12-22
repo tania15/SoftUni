@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8XfUVutM3DX7Of8m8faF96RWLe2vsqmaK7dwxxrT/fglBEi9X5TubmzrAeqoSNjTw/7n/2TVOVPOoD+Jj/a1iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\8.DataTypesAndVariablesExercise\\WaterOverflow\\WaterOverflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

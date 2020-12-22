@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27NiwhsYJLGK+Xz7vij81Yd/wSUrZIHNFvpTpDpLD0ouMqhiZi+Qei51Y6QIgGAAv6t4hbrtmP7DXK6vD8qxiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\8.DataTypesAndVariablesExercise\\8.DataTypesAndVariablesExcercise\\IntegerOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

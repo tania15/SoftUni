@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

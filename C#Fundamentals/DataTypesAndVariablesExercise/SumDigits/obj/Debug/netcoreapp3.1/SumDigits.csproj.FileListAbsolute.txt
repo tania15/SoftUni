@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.exe
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.genruntimeconfig.cache

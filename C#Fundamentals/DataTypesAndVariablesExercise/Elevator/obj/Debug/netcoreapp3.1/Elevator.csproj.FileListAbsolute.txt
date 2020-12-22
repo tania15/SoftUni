@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\V330\source\repos\C# Fundamentals\8.DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

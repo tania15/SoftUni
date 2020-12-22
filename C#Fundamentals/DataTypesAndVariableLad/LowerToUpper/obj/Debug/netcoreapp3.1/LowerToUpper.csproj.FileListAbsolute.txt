@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.exe
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\bin\Debug\netcoreapp3.1\LowerToUpper.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\LowerToUpper\obj\Debug\netcoreapp3.1\LowerToUpper.genruntimeconfig.cache

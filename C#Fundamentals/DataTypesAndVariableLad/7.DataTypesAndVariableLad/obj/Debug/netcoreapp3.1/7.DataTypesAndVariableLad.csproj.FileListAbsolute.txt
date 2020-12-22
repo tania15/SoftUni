@@ -1,0 +1,26 @@
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.exe
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.deps.json
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.runtimeconfig.json
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.runtimeconfig.dev.json
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.dll
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.pdb
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.AssemblyInfo.cs
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.dll
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.pdb
+C:\Users\V330\source\repos\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.genruntimeconfig.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.exe
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.dll
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\bin\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.pdb
+C:\Users\V330\source\repos\C# Fundamentals\7.DataTypesAndVariableLad\7.DataTypesAndVariableLad\obj\Debug\netcoreapp3.1\7.DataTypesAndVariableLad.genruntimeconfig.cache
