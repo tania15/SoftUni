@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddV4S4eIdlyLAKWcEmJgINx6U4fqApMKcRMsYe3gKTaDVYqE5fQsAlFaKh3oUD4v2o/K2hrzto246rPTyYBO/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\ArraysExercise\\ArrayRotation\\ArrayRotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

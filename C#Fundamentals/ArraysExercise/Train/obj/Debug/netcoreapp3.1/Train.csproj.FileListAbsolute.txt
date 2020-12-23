@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.exe
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.dll
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\bin\Debug\netcoreapp3.1\Train.pdb
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.dll
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.pdb
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9vyaWlqI/aydLYuOS3azgQjYhIspQjBIIMhsbRytz1+orkcN9BEIcen2XdwDccs8MOzCgM6MSEwLf3910Fraw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\ArraysExercise\\CommonElements\\CommonElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

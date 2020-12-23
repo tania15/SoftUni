@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.exe
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.deps.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.dll
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Ladybugs.pdb
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.dll
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.pdb
+C:\Users\V330\source\repos\C# Basic\ArraysExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Ladybugs.genruntimeconfig.cache

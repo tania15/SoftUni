@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.exe
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\V330\source\repos\C# Fundamentals\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.genruntimeconfig.cache
