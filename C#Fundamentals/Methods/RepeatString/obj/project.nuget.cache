@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1Xu01r1G866/8nmeDoig4lJ77xDeHzFtbncvyOUaYFyeV6e5x3PhEkTBNNQXqlGR09AtcDEbXNccr+mwkAK9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\13.Methods\\RepeatString\\RepeatString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

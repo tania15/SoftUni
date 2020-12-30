@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.exe
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.deps.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.dll
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\bin\Debug\netcoreapp3.1\CharctersInRange.pdb
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.dll
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.pdb
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\CharctersInRange\obj\Debug\netcoreapp3.1\CharctersInRange.genruntimeconfig.cache

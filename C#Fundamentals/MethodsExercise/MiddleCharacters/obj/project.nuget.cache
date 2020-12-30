@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knaOhIyKIa5vAkyEQq91rn/8N4TB1l1SkqRM2XqiEIhIhA8l2e+UbLN3sbeiuZJQEtgju1+h4zroTvM5rZbASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Basic\\MethodsExercise\\MiddleCharacters\\MiddleCharacters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

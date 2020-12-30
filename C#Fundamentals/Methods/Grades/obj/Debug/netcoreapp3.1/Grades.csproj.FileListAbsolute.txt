@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.exe
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\bin\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Grades\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache

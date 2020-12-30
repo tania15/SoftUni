@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\V330\source\repos\C# Fundamentals\13.Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache

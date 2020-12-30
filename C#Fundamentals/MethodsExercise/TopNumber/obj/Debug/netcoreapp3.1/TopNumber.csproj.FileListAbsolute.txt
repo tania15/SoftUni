@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\V330\source\repos\C# Basic\MethodsExercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache
