@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNserMnSc6PIfvPtT1CgXmXOK9cQ5pbOxx8Rm/iMB0ZUO1pQ8tJbIGzGQva3pdDhK3TAvfYKm7UF2oYPnvtvwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C# Fundamentals\\16.Lists\\RemoveNegativesAndReverse\\RemoveNegativesAndReverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

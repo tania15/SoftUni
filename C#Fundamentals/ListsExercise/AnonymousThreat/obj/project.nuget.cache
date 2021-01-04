@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IU8JiaTam9vVYgS2prW7808HoQWqPETk1kSiYR/sNid1hPtC8c732j+Mxp9wyhHo8vdYVmuS6OB3wNxki91FLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\ListsExercise\\AnonymousThreat\\AnonymousThreat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

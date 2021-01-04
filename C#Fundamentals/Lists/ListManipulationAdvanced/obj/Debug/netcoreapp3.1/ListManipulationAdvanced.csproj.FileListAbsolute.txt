@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.exe
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.AssemblyInfo.cs
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.exe
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.deps.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.runtimeconfig.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.dll
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\bin\Debug\netcoreapp3.1\MergingLists.pdb
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.dll
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.pdb
+C:\Users\V330\source\repos\C# Fundamentals\16.Lists\MergingLists\obj\Debug\netcoreapp3.1\MergingLists.genruntimeconfig.cache

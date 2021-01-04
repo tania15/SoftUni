@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxqPNkx13XEGRhbgTk37RxaaGtTHicgQXYIUIwct0UGd1iJOjVeOq2Pnk56DSG4bV2XAYkAWNqbD84GhZLfHaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\ListsExercise\\Train\\Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

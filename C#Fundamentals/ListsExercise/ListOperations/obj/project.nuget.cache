@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RY2SfG/ik/oq1LnGeimTEBiA5irSiSq8jqMNgetN0ePMZq/TXItCmwlnYqPcdiq4b/kDf8ULD8mdRp81tqUWuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\ListsExercise\\ListOperations\\ListOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
