@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVrXUR7SGFCf6KLYUN6YO8E7zpg3Ax5KL2d7AAgpAiG9E2WiLH0aPpC/Su9wfVHghz841EOatEg5UNcKDNQK8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\20.ObjectsAndClassesExercise\\AdvertisementMessage\\AdvertisementMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

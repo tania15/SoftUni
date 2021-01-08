@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.exe
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.dll
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.pdb
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.dll
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.pdb
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.genruntimeconfig.cache

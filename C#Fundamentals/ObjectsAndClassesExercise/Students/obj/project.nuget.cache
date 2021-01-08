@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfROjb2Zu+S9Sfy1JdClutgvrP4hDMbxEC1p03qQqD/hMn8UMiLstF2ZTbzByXCAxE1IbI6BsVEGgVqObbIS5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\20.ObjectsAndClassesExercise\\Students\\Students.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

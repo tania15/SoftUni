@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\V330\source\repos\C#Fundamentals\20.ObjectsAndClassesExercise\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache
