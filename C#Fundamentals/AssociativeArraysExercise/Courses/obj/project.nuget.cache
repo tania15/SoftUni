@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8HUKB2Qohvbqf8j0ystbCGNrc+e8J+bim2MbDQS3cdN2dAxKTzyDIDrnK3jx5SgCibqyzPwDqFT/0G4k0swmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\AssociativeArraysExercise\\Courses\\Courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

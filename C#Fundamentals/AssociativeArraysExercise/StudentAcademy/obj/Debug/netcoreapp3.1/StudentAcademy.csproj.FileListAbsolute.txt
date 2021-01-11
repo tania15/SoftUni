@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache

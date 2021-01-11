@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.exe
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.dll
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.pdb
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.dll
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.pdb
+C:\Users\V330\source\repos\C#Fundamentals\25.AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.genruntimeconfig.cache

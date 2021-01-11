@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyRvqPuC2ehOu3PDj7bZXYMgTHhDFWsYcQWk2R90nWCuo60ymLsgjAqdi2VQj+ZZOxwcazxXeT7/JmHY1FeYlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\25.AssociativeArrays\\OddOccurrences\\OddOccurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

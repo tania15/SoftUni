@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\V330\source\repos\C#Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOIFV0JhDs1G4fKrlHsHPPP0HSuGwV8sRGC9I1uSkT4CK/qYa2Naad9hwn1BQjwKWh10a3BO3bSeKbAVcc6HxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\AssociativeArraysExercise\\AMinerTask\\AMinerTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
