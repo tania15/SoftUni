@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.genruntimeconfig.cache

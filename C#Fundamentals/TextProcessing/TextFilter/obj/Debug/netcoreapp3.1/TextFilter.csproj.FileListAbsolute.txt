@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.genruntimeconfig.cache

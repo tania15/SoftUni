@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.genruntimeconfig.cache

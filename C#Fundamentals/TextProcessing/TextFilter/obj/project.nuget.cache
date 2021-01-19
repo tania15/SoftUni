@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4QRl+1GwBIB9B01vuXXe7UWkjnbtDxk1lZEYT0fuMd5yS4hWOcC+hnHFgkP0O2GFkfH44GXsgYxNUdKCqeeYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\TextProcessing\\TextFilter\\TextFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

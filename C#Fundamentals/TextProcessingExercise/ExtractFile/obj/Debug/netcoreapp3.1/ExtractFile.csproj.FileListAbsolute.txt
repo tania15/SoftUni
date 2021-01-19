@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessingExercise\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.genruntimeconfig.cache

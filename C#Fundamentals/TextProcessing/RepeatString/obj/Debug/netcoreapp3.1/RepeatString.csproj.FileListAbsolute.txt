@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.exe
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\bin\Debug\netcoreapp3.1\RepeatString.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.dll
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.pdb
+C:\Users\V330\source\repos\C#Fundamentals\TextProcessing\RepeatString\obj\Debug\netcoreapp3.1\RepeatString.genruntimeconfig.cache

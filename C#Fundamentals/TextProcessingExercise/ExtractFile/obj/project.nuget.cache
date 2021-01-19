@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOHIJqV7dQ5btc1byEgfmWqRLBy6ttkScM2YXd3R82dFRfG9JsDSgoIU9o4hJtosYsj/Wf9jOrl/8u//rahfRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\TextProcessingExercise\\ExtractFile\\ExtractFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

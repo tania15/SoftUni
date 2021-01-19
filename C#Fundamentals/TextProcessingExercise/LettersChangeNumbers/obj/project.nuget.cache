@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MvBtJftnePYg25afW67eqjwAg0ab1UI+4lRzZRCSndorPbr/aJIiPvtrjdAbCaPYbngILsLyqjxMcJJFrC/fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\TextProcessingExercise\\LettersChangeNumbers\\LettersChangeNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
