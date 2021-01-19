@@ -9,7 +9,7 @@ namespace EvenNumber
             int evenNumber = int.Parse(Console.ReadLine());
             evenNumber = Math.Abs(evenNumber);
 
-            while (evenNumber % 2 == 1)
+            while (Math.Abs(evenNumber) % 2 == 1)
             {
                 Console.WriteLine("Please write an even number.");
                 evenNumber = int.Parse(Console.ReadLine());
