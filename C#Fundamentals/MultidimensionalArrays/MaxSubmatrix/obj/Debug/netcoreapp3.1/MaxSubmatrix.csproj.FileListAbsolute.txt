@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.exe
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\bin\Debug\netcoreapp3.1\MaxSubmatrix.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSubmatrix\obj\Debug\netcoreapp3.1\MaxSubmatrix.genruntimeconfig.cache

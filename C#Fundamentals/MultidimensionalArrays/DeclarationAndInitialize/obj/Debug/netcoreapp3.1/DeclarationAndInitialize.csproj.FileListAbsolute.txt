@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.exe
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\bin\Debug\netcoreapp3.1\DeclarationAndInitialize.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\DeclarationAndInitialize\obj\Debug\netcoreapp3.1\DeclarationAndInitialize.genruntimeconfig.cache

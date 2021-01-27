@@ -1,0 +1,45 @@
+﻿using System;
+
+namespace MaxSubmatrix
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Find the maximum submatrix 2x2 of a rectangular matrix of numbers. Maximum matrix is a submatrix that has a maximum sum of the elements.
+
+            int[,] matrix =
+            {
+                {0, 2, 4, 0, 9, 5 },
+                {7, 1, 3, 3, 2, 1 },
+                {1, 3, 9, 8, 5, 6 },
+                {4, 6, 7, 9, 1, 0 }
+            };
+
+            int bestSum = int.MinValue;
+            int sum = 0;
+            int bestRow = 0;
+            int bestCol = 0;
+
+            for (int row = 0; row < matrix.GetLength(0) - 1; row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1) - 1; col++)
+                {
+                    sum = matrix[row, col] + matrix[row, col + 1] + matrix[row + 1, col] + matrix[row + 1, col + 1];
+
+                    if (sum > bestSum)
+                    {
+                        bestSum = sum;
+                        bestRow = row;
+                        bestCol = col;
+                    }
+
+                    sum = 0;
+                }
+            }
+
+            Console.WriteLine(matrix[bestRow, bestCol] + " " + matrix[bestRow, bestCol + 1]);
+            Console.WriteLine(matrix[bestRow + 1, bestCol] + " " + matrix[bestRow + 1, bestCol + 1]);
+        }
+    }
+}

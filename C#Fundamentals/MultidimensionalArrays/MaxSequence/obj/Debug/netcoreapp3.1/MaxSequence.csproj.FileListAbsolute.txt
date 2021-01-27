@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.exe
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\bin\Debug\netcoreapp3.1\MaxSequence.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.dll
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MultidimensionalArrays\MaxSequence\obj\Debug\netcoreapp3.1\MaxSequence.genruntimeconfig.cache
