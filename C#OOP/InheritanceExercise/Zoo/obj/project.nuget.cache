@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "13XsmIYNvJaJkOp/tjVLxNubh737YOS9aaCK87tUJc8z9czp0emIymPvEhzs8LZlimDY/7Xb8n8bd4mdpTIQHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\Desktop\\New folder (4)\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

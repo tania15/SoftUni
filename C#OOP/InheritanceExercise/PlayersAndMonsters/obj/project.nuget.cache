@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7x2hrUd8XJbmlH7sxaN57WkFmBU7NiYF72vOnlgL3Z2hUax1V5bBWhtbtlHFThOxW0XesV5Ak1gx8S7HTBwYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\Desktop\\New folder (4)\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

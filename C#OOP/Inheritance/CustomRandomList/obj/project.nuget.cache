@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CR2UFLi5xCYn4S4erxsnw4EhGz8l/gj75mtxKOzTAnljuSr1NuD5Rl3PVD9e9iAEvCSLR2IULzKF2LQgllEQJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#OOP\\Inheritance\\CustomRandomList\\CustomRandomList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

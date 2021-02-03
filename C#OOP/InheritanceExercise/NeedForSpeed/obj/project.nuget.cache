@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc53NXEWHyqHVEqmok0MFfydS8y3fQNCBYCQnmdt8S/uzj2St2RCyljasVqHSC0mmu0KwgxPsZH8W8uYZwJsoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\Desktop\\New folder (4)\\NeedForSpeed\\NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
