@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\V330\source\repos\C#OOP\Encapsulation\ConsoleApp1\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
