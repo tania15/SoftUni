@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.exe
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\bin\Debug\netcoreapp3.1\ConputerStore.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\ConputerStore\obj\Debug\netcoreapp3.1\ConputerStore.genruntimeconfig.cache

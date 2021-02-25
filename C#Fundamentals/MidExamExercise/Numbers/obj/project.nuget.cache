@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RghX7lEk22DwBRDL7O+OPSy7PLcAjDhuAumNtIYDW2vP21+SIkZz7axtAKLr/sppK+n0va/GVT19/881afZpVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\MidExamExercise\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

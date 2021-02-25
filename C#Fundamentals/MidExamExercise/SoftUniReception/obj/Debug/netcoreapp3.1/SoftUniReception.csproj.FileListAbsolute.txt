@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.exe
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.genruntimeconfig.cache

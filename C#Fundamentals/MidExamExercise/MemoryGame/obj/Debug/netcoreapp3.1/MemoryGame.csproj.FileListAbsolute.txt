@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.exe
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.genruntimeconfig.cache

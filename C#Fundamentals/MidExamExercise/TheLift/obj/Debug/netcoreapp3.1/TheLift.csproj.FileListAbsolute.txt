@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.exe
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\bin\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\V330\source\repos\C#Fundamentals\MidExamExercise\TheLift\obj\Debug\netcoreapp3.1\TheLift.genruntimeconfig.cache
