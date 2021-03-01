@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.exe
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.deps.json
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.json
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.dev.json
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.dll
+C:\Users\V330\source\repos\MidExam\Problem3\bin\Debug\netcoreapp3.1\Problem3.pdb
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfo.cs
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.dll
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.pdb
+C:\Users\V330\source\repos\MidExam\Problem3\obj\Debug\netcoreapp3.1\Problem3.genruntimeconfig.cache
