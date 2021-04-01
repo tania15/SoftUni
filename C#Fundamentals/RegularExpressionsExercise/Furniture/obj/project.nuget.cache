@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ww+epf7uT+O+l5EFiNyPiuUMny+Yr2iYjlrzYOZTV8g3Y9cwFkVn+xtmwbq2am9D+ffsMOjBDmTzER2Ii70fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\RegularExpressionsExercise\\Furniture\\Furniture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
