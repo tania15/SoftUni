@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.exe
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.genruntimeconfig.cache

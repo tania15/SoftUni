@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.exe
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\bin\Debug\netcoreapp3.1\Pirates.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\Pirates\obj\Debug\netcoreapp3.1\Pirates.genruntimeconfig.cache

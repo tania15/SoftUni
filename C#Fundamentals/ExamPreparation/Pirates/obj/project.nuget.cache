@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfNtc007YqUzm0X9zU+perltzuV6XO/ayh9C6hyiLNWk1i6cImJ8zoCaOQALLuo/oVXNsVKLiCHNgPH/sAzlPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\ExamPreparation\\Pirates\\Pirates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

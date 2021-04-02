@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.exe
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.genruntimeconfig.cache

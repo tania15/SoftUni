@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.exe
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\bin\Debug\netcoreapp3.1\TheImitationGame.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.dll
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.pdb
+C:\Users\V330\source\repos\C#Fundamentals\ExamPreparation\ConsoleApp1\obj\Debug\netcoreapp3.1\TheImitationGame.genruntimeconfig.cache
