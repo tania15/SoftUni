@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\Exam\\Problem1\\Problem1.csproj",
+      "projectUniqueName": "C:\\Users\\V330\\Documents\\GitHub\\SoftUni\\C#Fundamentals\\Exam\\Problem1\\Problem1.csproj",
       "projectName": "Problem1",
-      "projectPath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\Exam\\Problem1\\Problem1.csproj",
+      "projectPath": "C:\\Users\\V330\\Documents\\GitHub\\SoftUni\\C#Fundamentals\\Exam\\Problem1\\Problem1.csproj",
       "packagesPath": "C:\\Users\\V330\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\Exam\\Problem1\\obj\\",
+      "outputPath": "C:\\Users\\V330\\Documents\\GitHub\\SoftUni\\C#Fundamentals\\Exam\\Problem1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\V330\\AppData\\Roaming\\NuGet\\NuGet.Config",

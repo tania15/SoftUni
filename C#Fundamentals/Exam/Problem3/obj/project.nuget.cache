@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zq5sV81fyggOO2+sMMAGQ2MOEE7MTVao7fW+7QBqxS+ZsY5YblPzcl6h+xe++ytxKq2pW24dqXuJruHW08ZjCA==",
+  "dgSpecHash": "uk49hEG2xX2D9SQyHVi3fLhft2j+CJWBekhv9rXlLTBnlsXoPExho39JPceME78zgEiL/Or5s8Rh4asmfBoY6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Fundamentals\\Exam\\Problem3\\Problem3.csproj",
+  "projectFilePath": "C:\\Users\\V330\\Documents\\GitHub\\SoftUni\\C#Fundamentals\\Exam\\Problem3\\Problem3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

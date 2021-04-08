@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Problem1.csproj", "{02B2A392-7C37-4E97-B31D-97C31F46135B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem1", "Problem1\Problem1.csproj", "{02B2A392-7C37-4E97-B31D-97C31F46135B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{8D8CBE60-ADDD-4F1E-8F0A-F8DC95D68326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem2", "Problem2\Problem2.csproj", "{8D8CBE60-ADDD-4F1E-8F0A-F8DC95D68326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{7C9B2505-FB2A-4D4A-8789-CE3146A7BC7C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{470E3BC0-B751-4674-A44F-24CBFBCF674D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem3", "Problem3\Problem3.csproj", "{7C9B2505-FB2A-4D4A-8789-CE3146A7BC7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{7C9B2505-FB2A-4D4A-8789-CE3146A7BC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C9B2505-FB2A-4D4A-8789-CE3146A7BC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C9B2505-FB2A-4D4A-8789-CE3146A7BC7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{470E3BC0-B751-4674-A44F-24CBFBCF674D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{470E3BC0-B751-4674-A44F-24CBFBCF674D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{470E3BC0-B751-4674-A44F-24CBFBCF674D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{470E3BC0-B751-4674-A44F-24CBFBCF674D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
