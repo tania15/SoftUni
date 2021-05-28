@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache

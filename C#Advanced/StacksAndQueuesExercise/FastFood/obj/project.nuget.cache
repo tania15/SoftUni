@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reIeOvkxHMx0ZbKADt9xofB99QHaCU4HhwwxCFzqHrfhxECJbGZpFPmxfUonFipDWn1dWBxhda6A1kZDCxmX+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\StacksAndQueuesExercise\\FastFood\\FastFood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

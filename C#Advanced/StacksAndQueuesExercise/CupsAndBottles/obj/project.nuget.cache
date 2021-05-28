@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YKGPsTQlULVlMjughQwXI3KcWpH58w4Oc5DpL+3FWkyklVqrbvCPQPs/iyZYFmihFS8+10ajxZeO4Q2h5gGIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\StacksAndQueuesExercise\\CupsAndBottles\\CupsAndBottles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

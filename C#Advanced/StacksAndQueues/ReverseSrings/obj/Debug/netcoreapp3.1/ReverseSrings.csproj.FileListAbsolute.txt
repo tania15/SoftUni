@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.exe
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.deps.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\bin\Debug\netcoreapp3.1\ReverseSrings.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueues\ReverseSrings\obj\Debug\netcoreapp3.1\ReverseSrings.genruntimeconfig.cache

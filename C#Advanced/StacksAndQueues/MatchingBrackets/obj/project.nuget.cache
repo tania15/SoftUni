@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2OjjEaPZ9yZVoQYKuGhh2/XKU0Q8ogPx2TiggWffO3HGHeApmHcIkW5bDkybl2AJE49W7kWHTKBlwt8EmVC/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\StacksAndQueues\\MatchingBrackets\\MatchingBrackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

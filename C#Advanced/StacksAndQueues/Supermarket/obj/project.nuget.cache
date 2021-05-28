@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMZZTN3lLR/O9021FaJHTEXHaDKrtBDoeUmn/yGl0IjE/HF23DLv/nxW6d55QPAOZKRTZT+yb1n1cPKcu2+C0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\StacksAndQueues\\Supermarket\\Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

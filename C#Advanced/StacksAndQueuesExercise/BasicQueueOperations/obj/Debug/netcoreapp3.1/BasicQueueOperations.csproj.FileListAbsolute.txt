@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\V330\source\repos\C#Advanced\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.genruntimeconfig.cache

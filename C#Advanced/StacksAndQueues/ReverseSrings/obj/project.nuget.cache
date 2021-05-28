@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3LBC8ty1AG9g/oOS/yQEGc2yavBR6PQXTYoDcS6PZnpYs6f9OtS6k74/DLI6UPquJ1+rp8jOTck9O8YCsYG1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\StacksAndQueues\\ReverseSrings\\ReverseSrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
