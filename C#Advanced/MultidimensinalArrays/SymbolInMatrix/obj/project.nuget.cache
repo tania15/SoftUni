@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HSqFwwwiPPE62LIo+fiFh8AO5Ve97ekA4I2I6bgGG0FicnlU2VIMfIwBHgeAAYPq+sP9eNxbp+NhtGkgeQA2DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\MultidimensinalArrays\\SymbolInMatrix\\SymbolInMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

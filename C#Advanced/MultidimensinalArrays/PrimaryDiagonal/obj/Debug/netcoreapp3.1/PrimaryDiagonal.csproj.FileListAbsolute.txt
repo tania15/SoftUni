@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.exe
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.deps.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.genruntimeconfig.cache

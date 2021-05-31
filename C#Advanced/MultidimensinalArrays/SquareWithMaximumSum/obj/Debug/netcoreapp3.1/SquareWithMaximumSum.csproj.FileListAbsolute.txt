@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensinalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache

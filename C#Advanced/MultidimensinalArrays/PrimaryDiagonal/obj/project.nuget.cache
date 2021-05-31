@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aukstae0hIDLYnuwIbqzC82P8ykoh+Mi7ya0ciuBBaSKSKgCpAQPKaNO9zYO4vMxeufrTeRyqg2hD3lxhT0G7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\MultidimensinalArrays\\PrimaryDiagonal\\PrimaryDiagonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

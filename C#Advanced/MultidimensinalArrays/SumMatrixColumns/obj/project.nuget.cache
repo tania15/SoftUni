@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t++KvSdNRmMWUHCtwT9+z5U3PCQ9lnMVoebTFiaZHLaYa0t7AIK+TRT2LIFSHGXPxQ1B01D1ZTDdtCOd6Iwf1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\MultidimensinalArrays\\SumMatrixColumns\\SumMatrixColumns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
