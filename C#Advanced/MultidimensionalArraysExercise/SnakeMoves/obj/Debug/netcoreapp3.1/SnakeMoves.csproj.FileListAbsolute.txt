@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\V330\source\repos\C#Advanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

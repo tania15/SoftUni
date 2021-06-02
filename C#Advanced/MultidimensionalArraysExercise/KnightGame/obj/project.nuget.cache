@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhEsylyvhqgR36oO47IpxAFdCuWZmxWF7ZwJi0Izj8PCwZTCpDtxYwK+E+pMa0Ywb8swN+P4YrNHngmnLifBjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\MultidimensionalArraysExercise\\KnightGame\\KnightGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
