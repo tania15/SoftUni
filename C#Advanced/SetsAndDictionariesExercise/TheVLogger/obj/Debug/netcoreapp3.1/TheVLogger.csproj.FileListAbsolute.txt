@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.exe
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\bin\Debug\netcoreapp3.1\TheVLogger.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\TheVLogger\obj\Debug\netcoreapp3.1\TheVLogger.genruntimeconfig.cache

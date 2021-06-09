@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGhbnQR4BnwHMseV+IVQucdNhb4yj6bsQRs4ZpF4Sw48sqrTLqvS9IJ+vC3kwFwj+rCaVgQNxhW9y50T7n7zvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\SetAndMulti-Dictionaries\\ProductShop\\ProductShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.exe
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.genruntimeconfig.cache

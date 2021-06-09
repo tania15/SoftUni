@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

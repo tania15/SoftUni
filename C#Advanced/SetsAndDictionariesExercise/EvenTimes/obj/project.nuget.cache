@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4OHtsodbrvaRn01+4N/CYt5dZ0VhuUowuT+B8n2hnlld79otUkcpTCSHxUFVr3X3xh/kvUk2k6cK4bexenZgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\SetsAndDictionariesExercise\\EvenTimes\\EvenTimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

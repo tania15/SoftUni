@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4YCaVz2IbuZxKw57mDdQiUQszm2U//eGYCK1fz8TbeSUJRQ9AaI1xurUsODT6VeY7Yd6NM6NJpPBUMrStxtrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\SetsAndDictionariesExercise\\CountSymbols\\CountSymbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

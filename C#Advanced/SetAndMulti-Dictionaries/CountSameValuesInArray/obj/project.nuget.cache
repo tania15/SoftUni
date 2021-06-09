@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fL9JQeiBo0B5T6LOh9AYavJOsbx1NczsXSq4w5s/pKC2xvYZBI1kFRmopjq4+QlwQfQJrWrX5wYYYPwrBb1A0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\SetAndMulti-Dictionaries\\CountSameValuesInArray\\CountSameValuesInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

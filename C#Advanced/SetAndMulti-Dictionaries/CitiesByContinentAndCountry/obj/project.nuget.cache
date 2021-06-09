@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SO0hOrixO4+1T+GHxQVnWh0ghGrjn7NtA0kzshMRmC6oJvdbs2tYR5NuNRPhQZwg+KnMgF/L0tvoPFnulvP7hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\SetAndMulti-Dictionaries\\CitiesByContinentAndCountry\\CitiesByContinentAndCountry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

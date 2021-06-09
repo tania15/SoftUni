@@ -1,0 +1,4 @@
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csproj.CoreCompileInputs.cache

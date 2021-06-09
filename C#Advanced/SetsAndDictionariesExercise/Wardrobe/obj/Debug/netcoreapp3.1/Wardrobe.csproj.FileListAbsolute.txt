@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.exe
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\V330\source\repos\C#Advanced\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.genruntimeconfig.cache

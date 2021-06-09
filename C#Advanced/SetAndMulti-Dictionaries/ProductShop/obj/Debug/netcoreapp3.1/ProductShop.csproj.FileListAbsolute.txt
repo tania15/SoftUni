@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache

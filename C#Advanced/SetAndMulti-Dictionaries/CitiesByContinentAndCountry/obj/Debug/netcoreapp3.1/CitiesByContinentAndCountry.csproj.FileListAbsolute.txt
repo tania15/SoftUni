@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.exe
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.deps.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\V330\source\repos\C#Advanced\SetAndMulti-Dictionaries\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.genruntimeconfig.cache
