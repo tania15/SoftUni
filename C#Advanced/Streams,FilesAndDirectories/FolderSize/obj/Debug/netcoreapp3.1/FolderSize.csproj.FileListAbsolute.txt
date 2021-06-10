@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

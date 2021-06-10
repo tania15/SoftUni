@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQpbFV5fF8X7LUtrSNmtvEBFT1itGnIG5YVY+qIIcWDH2vhCFFsCWXiA153DLHQcUXqLc5NYewsAHC4pIXbG0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\Streams,FilesAndDirectories\\SliceAFile\\SliceAFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

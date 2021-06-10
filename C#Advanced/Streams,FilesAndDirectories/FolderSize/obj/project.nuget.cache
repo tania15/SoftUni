@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVHgRmMYZW43r9RW3Bt+f2Th6UIKu8QFm1xm4k2TPsXo2GFpxiKHOCRqMsiU28fKWcT0EwsQY9+VIlo1iyMcEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\Streams,FilesAndDirectories\\FolderSize\\FolderSize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

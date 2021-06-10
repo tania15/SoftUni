@@ -1,0 +1,15 @@
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\Input1.txt
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\Input2.txt
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

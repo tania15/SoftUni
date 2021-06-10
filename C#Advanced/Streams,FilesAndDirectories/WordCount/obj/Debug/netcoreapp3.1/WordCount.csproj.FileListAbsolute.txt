@@ -1,0 +1,15 @@
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\Words.txt
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache
+C:\Users\V330\source\repos\C#Advanced\Streams,FilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\Input.txt

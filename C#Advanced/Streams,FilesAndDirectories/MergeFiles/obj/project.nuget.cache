@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohvTYFKuxJz8DUMtD8q1czzNydP6HaZIGLzSgDq3KsmHib5NJ++ZW7UkE0ihKa7xzvRi7le3vx+MnVvyIXozUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\Streams,FilesAndDirectories\\MergeFiles\\MergeFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
