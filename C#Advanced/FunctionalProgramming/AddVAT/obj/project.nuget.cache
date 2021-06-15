@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpD58GJYbm/ur+UUJkUW1JPmMCrGdJJkeVxquHyv4xiGhwFf1S0R2pBljAZ8xHqhBjow+UqiN5JMC4HhINzTVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\FunctionalProgramming\\AddVAT\\AddVAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGFzclubhYBFKLsDQV7ZqtSOQnEW2QdH6cNSVawEn9daRxgl+UK7BkXLunQfS3m94nxtDrMVXz3uAdSdXt2g5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\FunctionalProgramming\\Filter\\ByAge\\Filter\\FilterByAge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

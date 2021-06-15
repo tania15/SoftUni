@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJ67JRP5+AM0hl0e/hVzsq1fCAM3Q07BRTtPiPrdViDOcYD66R7vgfbTrrdznLpgiNTGwqaRuxOAXkxULFVz9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\FunctionalProgramming\\CountUppercaseWords\\CountUppercaseWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
