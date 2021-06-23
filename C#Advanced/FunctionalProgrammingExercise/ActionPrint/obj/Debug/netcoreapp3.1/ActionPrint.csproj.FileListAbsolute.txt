@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.exe
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.deps.json
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\V330\source\repos\C#Advanced\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.genruntimeconfig.cache

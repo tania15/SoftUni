@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mmAEwNxLif72kcG6GsTVlEhLNf3gSj6Q/aa2ofkCzl00vbhpv9lSusbHGpQWXoks6r6Q9okyR76SO9oN/z+qww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\FunctionalProgrammingExercise\\CustomComparator\\CustomComparator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ivo6Ns2/jtGPLpY7HPMVDuttHMirrYjHXnHxpuV6jIdpBbvaMFmLknT8ULuFEz4I/QmIrP93t9aeeP3e4lVcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\FunctionalProgrammingExercise\\PredicateParty\\PredicateParty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
