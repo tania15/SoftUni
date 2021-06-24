@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uk3QPLs3WdzjdmloxGsypfd4dpP/1RmV6GUEgsy0d8KG6A1RMYE+xoXVIUSp4RxPQUSME9qt1bltgkpFC3lIsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\DefiningClassesExercise\\RawData\\RawData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUyRXQKBzo3Z2McQe41WgYd+dqXLLk0xKBWYWRJz+I35HDGj43H+Q7B3DtDgGrZP1Wv1UGak31HrX4PSzF9zRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\DefiningClassesExercise\\PokemonTrainer\\PokemonTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\V330\source\repos\C#Advanced\DefiningClassesExercise\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache
