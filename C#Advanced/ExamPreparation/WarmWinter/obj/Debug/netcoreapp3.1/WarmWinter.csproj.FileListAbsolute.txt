@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.exe
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.deps.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

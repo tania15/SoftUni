@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNuRKT8XPAMKgrKE060JiJtKaqXgWBX3f2qRhhzGG5jBpHiZ0IfWAquBYriGs9fB0RoZLqN0TF45EX3R9yJOXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\WarmWinter\\Guild\\Guild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.exe
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.deps.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\bin\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\V330\source\repos\C#Advanced\WarmWinter\Classroom\obj\Debug\netcoreapp3.1\Classroom.genruntimeconfig.cache
