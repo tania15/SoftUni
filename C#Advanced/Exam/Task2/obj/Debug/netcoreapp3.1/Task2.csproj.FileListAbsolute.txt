@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\V330\source\repos\C#Advanced\Exam\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
