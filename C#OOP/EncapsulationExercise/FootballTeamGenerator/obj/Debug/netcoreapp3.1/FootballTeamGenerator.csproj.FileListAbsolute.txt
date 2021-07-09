@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\V330\source\repos\C#OOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache

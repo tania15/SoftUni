@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORZYZwCTqKPgJ9cWwPASyLZZfPsxB/Xgt0Fw+VsojyRkozvbMLUczPjWelPkS/a5glSWBYXeZFNw2iKbs6o3Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#OOP\\EncapsulationExercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
