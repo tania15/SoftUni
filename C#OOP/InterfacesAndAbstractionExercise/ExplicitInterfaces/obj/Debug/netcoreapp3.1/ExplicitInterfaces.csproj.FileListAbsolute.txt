@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\V330\source\repos\C#OOP\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

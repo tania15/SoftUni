@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLlEfTf8PdQOtSGL7uRxoAWcv+VetBHeJxTu5OuJWXxDeuCvSo6n3J0HfnE5dJ55QyCCFx8Kf/2PQJe5mFYaKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#OOP\\InterfacesAndAbstractionExercise\\BorderControl\\BorderControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

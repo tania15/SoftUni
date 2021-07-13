@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\V330\source\repos\C#Fundamentals\InterfacesAndAbstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

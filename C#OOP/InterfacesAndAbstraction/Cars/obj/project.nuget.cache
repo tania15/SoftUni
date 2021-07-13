@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHWSLd2SRJhkejE27q39XElSR2lzSpYbMhb8HLUeo0dKETz/86f5Oz9RyMOGl36CxSTUO4YnT7OhW9/hMPIw+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#OOP\\InterfacesAndAbstraction\\Cars\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
