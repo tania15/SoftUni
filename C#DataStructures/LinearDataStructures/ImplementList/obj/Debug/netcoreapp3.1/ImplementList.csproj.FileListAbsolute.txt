@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.exe
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.deps.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.runtimeconfig.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.dll
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\bin\Debug\netcoreapp3.1\ImplementList.pdb
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.dll
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.pdb
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementList\obj\Debug\netcoreapp3.1\ImplementList.genruntimeconfig.cache

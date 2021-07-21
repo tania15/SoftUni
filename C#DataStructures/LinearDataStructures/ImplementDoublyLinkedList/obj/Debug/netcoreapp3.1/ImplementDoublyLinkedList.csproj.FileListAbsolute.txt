@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.exe
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.deps.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.runtimeconfig.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.dll
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\bin\Debug\netcoreapp3.1\ImplementDoublyLinkedList.pdb
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.dll
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.pdb
+C:\Users\V330\source\repos\C#DataStructures\LinearDataStructures\ImplementDoublyLinkedList\obj\Debug\netcoreapp3.1\ImplementDoublyLinkedList.genruntimeconfig.cache
