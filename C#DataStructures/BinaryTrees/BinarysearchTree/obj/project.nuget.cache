@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShZnJc+a7O+6BRU4ynnK9tOnMjP5p206Tf0f2ntMmnY7KPzTFgbw/zV0rYd7SCP/TozmDOCN2jSWQjIq987LGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#DataStructures\\BinaryTrees\\BinarysearchTree\\BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ug5/vNzsrqYgIQPQNonrOAsEMHsuPQg76woEgeKTkgvWpgaJ41epYD4Rp9cjCO78o84ghIbZ5KS6F13FcDnzkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#DataStructures\\BinaryTrees\\PriorityQueue\\PriorityQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

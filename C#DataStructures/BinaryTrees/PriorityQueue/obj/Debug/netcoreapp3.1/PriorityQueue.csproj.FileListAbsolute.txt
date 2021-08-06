@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.exe
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.deps.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.genruntimeconfig.cache

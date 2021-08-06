@@ -1,0 +1,13 @@
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.exe
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.deps.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.dev.json
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.dll
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\bin\Debug\netcoreapp3.1\Heap.pdb
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfo.cs
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.dll
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.pdb
+C:\Users\V330\source\repos\C#DataStructures\BinaryTrees\Heap\obj\Debug\netcoreapp3.1\Heap.genruntimeconfig.cache
