@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{7A995D20-328B-433C-A102-6E90458C6BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{62E390CA-4DA1-4EE2-9376-BB3A73FF771C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{CE6073D3-4D26-4257-9CA6-E97C8CE99468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A995D20-328B-433C-A102-6E90458C6BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A995D20-328B-433C-A102-6E90458C6BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A995D20-328B-433C-A102-6E90458C6BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A995D20-328B-433C-A102-6E90458C6BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E390CA-4DA1-4EE2-9376-BB3A73FF771C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E390CA-4DA1-4EE2-9376-BB3A73FF771C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E390CA-4DA1-4EE2-9376-BB3A73FF771C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E390CA-4DA1-4EE2-9376-BB3A73FF771C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6073D3-4D26-4257-9CA6-E97C8CE99468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6073D3-4D26-4257-9CA6-E97C8CE99468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6073D3-4D26-4257-9CA6-E97C8CE99468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6073D3-4D26-4257-9CA6-E97C8CE99468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A939AD-6CF2-4953-AEB8-E65CA85506A6}
+	EndGlobalSection
+EndGlobal

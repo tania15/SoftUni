@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/+BrmYZYaHeGZMnaHXM7qfqpKH/qzlwmhLKyHWd7TlgK+UPV+bzs30gPjtLfEXyDXM6dvL4jh7yzg0SstnfSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V330\\source\\repos\\C#Advanced\\IteratorsAndComparators\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V330\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
