@@ -1,0 +1,20 @@
+CREATE TABLE Logs
+(
+	LogId BIGINT NOT NULL PRIMARY KEY IDENTITY(1, 1),
+	AccountId INT NOT NULL FOREIGN KEY REFERENCES Accounts(Id),
+	OldSum MONEY NOT NULL,
+	NewSum MONEY NOT NULL,
+	DateOfChange DATETIME NOT NULL
+)
+
+GO
+
+CREATE OR ALTER TRIGGER tr_AccountLogs
+ON Accounts FOR UPDATE
+AS
+BEGIN 
+	INSERT INTO Logs 
+	SELECT D.Id, D.Balance, I.Balance, GETDATE()
+	FROM deleted D
+		JOIN inserted I ON D.Id = I.Id AND D.Balance <> I.Balance;
+END
