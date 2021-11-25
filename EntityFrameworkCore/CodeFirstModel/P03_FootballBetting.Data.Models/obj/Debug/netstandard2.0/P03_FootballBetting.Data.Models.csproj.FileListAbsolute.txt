@@ -1,0 +1,9 @@
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\bin\Debug\netstandard2.0\P03_FootballBetting.Data.Models.deps.json
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\bin\Debug\netstandard2.0\P03_FootballBetting.Data.Models.dll
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\bin\Debug\netstandard2.0\P03_FootballBetting.Data.Models.pdb
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.csprojAssemblyReference.cache
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.dll
+C:\Users\V330\source\repos\EntityFrameworkCore\CodeFirstModel\P03_FootballBetting.Data.Models\obj\Debug\netstandard2.0\P03_FootballBetting.Data.Models.pdb
